@@ -11,7 +11,7 @@
 #Conveyor Belt Sushi
 #3 Nov 2024
 
-#input
+#input4
 red=int(input(" "))
 green=int(input(""))
 blue=int(input(""))
