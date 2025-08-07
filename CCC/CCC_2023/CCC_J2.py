@@ -1,6 +1,6 @@
 #Anjola Kamoru
 #Chili Pepper
-#7 Nov 2024
+#18 Nov 2024
 
 num_of_chilis=int(input("Enter number of Chilis "))
 SHU_values = {

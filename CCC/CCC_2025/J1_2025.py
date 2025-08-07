@@ -1,6 +1,7 @@
 #Anjola Kamoru
 #ROller Coaster Ride
 #6th August 2025
+
 while True:
     position=int(input("Enter a number representing your position in line: "))
     cars=int(input("Enter the number of cars on the train: "))

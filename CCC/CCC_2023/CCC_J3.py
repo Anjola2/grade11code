@@ -1,6 +1,6 @@
 #Anjola Kamoru
 #Special Event
-#7 Nov 2024
+#19 Nov 2024
 
 num_of_people=int(input("Enter number of people attending event: "))
 counts=[0,0,0,0,0]
